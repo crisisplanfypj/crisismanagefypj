@@ -1,0 +1,8 @@
+{
+  "name": "crisismanage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "001b3399"
+}
